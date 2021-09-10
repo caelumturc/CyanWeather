@@ -8,4 +8,4 @@ A weather app built using Swift and the weather Api
 Xcode 11 <br/>
 Swift 4.0+ <br/>
 Ios 9.0+ <br/>
-
+Weatherbit.io
